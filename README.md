@@ -1,7 +1,7 @@
 # Welcome to the Computer Vision Project! 🚀
 This repository demonstrates the potential of Computer Vision by implementing multiple image processing techniques and interactive real-time applications. The project is designed to combine theoretical concepts with practical tools, offering an engaging way to learn and explore. Here’s what you’ll find:
 
-## 🎨 Image Processing Filters
+##  🖼️  Image Processing Filters
 Dive into various filters that manipulate images to achieve specific effects:
 
 2D Filter: Applies kernel operations to enhance sharpness, detect edges, or reduce noise.
@@ -13,7 +13,7 @@ Morphological Operations:
 Erosion & Dilation: Modifies object boundaries in an image.
 Opening & Closing: Removes noise or closes small gaps in contours.
 
-##🖍️ Object Detection by Color
+## 🖍️ Object Detection by Color
 
 This feature detects objects in an image based on their color using the HSV color space.
 It’s implemented through:
@@ -22,7 +22,7 @@ Real-Time Object Detection: Tracks objects dynamically using a live camera feed.
 Invisibility Cloak: Renders an object invisible by replacing its pixels with a pre-recorded background. 🧙‍♂️
 Green Screen Effect: Replaces the detected object’s background with a custom image or video. 🎥
 
-## 🎮 Brick Racing Game
+## 🏎️ Brick Racing Game
 
 An innovative game combining computer vision with real-time interaction:
 
@@ -33,7 +33,7 @@ Dynamic Features:
 Obstacles move at increasing speeds, and scores are updated in real-time.
 Collisions are detected using bounding boxes, ending the game with a "Game Over" message.
 
-## 🛠️ Technologies Used
+## 🕹️ Technologies Used
 
 Programming Language: Python
 Libraries:
